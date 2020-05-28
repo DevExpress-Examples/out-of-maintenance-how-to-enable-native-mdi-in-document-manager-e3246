@@ -22,7 +22,7 @@ namespace DocumentManager_NativeMDI {
             }
         }
         void CreateDocumentManager() {
-            DocumentManager dm = new DocumentManager();
+            DocumentManager dm = new DocumentManager(components);
             dm.MdiParent = this;
             dm.View = new NativeMdiView();
         }
