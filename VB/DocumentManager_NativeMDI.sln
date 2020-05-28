@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 9.00
+Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DocumentManager_NativeMDI", "DocumentManager_NativeMDI\DocumentManager_NativeMDI.vbproj", "{C48DDCD3-4B77-4F63-B357-C5767900DD3E}"
 EndProject
